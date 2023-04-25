@@ -36,6 +36,6 @@ button {
   background: white;
   border: 1px solid #eee;
   padding:10px;
+  margin:auto;
   display: block;
-
 }
