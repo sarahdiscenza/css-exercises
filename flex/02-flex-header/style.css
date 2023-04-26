@@ -38,6 +38,5 @@ div.left-links{
 }
 
 .right-links{
-  justify-content: flex-end;
   border: 5px solid red;
 }
