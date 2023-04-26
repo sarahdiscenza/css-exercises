@@ -53,3 +53,7 @@ ul {
   display: flex;
   gap: 10px;
 }
+
+div.right{
+  margin-right: 0;
+}
