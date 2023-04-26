@@ -17,11 +17,13 @@ img {
   display:flex;
   gap: 15px;
   justify-content: center;
+  align-content: center;
 }
 
 .plant-text{
   display: flex;
   justify-content: center;
+  align-content: center;
   flex-direction: column;
 }
 
