@@ -52,6 +52,7 @@ ul {
 .links {
   display: flex;
   gap: 10px;
+  margin-right: auto;
 }
 
 div.right{
