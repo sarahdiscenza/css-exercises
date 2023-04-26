@@ -34,7 +34,6 @@ div.left-links{
   justify-self: flex-start;
   flex: 1;
   border: 5px solid red;
-  margin-left: 0;
   gap: 10px;
 }
 
