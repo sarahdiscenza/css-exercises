@@ -33,7 +33,7 @@ a {
 }
 
 div.left-links{
-  border: 5px solid red;
+  border: 1px solid red;
   justify-content: flex-start;
 }
 
