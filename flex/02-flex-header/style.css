@@ -38,7 +38,7 @@ div.left-links{
   margin-left: 0;
 }
 
-.right-links{
+div.right-links{
   flex: 1;
   justify-self: flex-end;
 }
