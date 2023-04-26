@@ -26,7 +26,7 @@ a {
   text-decoration: none;
 }
 
-.left-links{
+div.left-links{
   justify-content: flex-start;
 }
 
