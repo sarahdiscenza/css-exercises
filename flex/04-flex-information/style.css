@@ -19,6 +19,7 @@ img {
 
 .plant-text{
   display: flex;
+  flex-direction: column;
 }
 
 /* do not edit this footer */
