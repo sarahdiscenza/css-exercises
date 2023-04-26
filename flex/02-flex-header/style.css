@@ -34,9 +34,8 @@ a {
 }
 
 div.left-links{
-  align-content: flex-start;
   border: 5px solid red;
-  margin-left: 0px;
+  justify-content: flex-start;
 }
 
 .right-links{
