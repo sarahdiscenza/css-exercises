@@ -20,7 +20,6 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 15px
-  justify-content: flex-start;
 }
 
 a {
@@ -36,6 +35,7 @@ div.left-links{
   flex: 1;
   border: 5px solid red;
   gap: 10px;
+  margin-right:auto;
 }
 
 div.right-links{
