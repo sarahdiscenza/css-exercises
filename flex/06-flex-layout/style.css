@@ -29,8 +29,10 @@ input {
 ul{
   display: flex;
   list-style-type: none;
+  gap:10px;
 }
 
 .header{
   display: flex;
+  justify-content: space-between;
 }
