@@ -40,4 +40,5 @@ div.left-links{
 
 .right-links{
   flex: 1;
+  justify-self: flex-end;
 }
