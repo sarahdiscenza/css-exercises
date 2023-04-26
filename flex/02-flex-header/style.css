@@ -21,6 +21,7 @@ ul.left {
   gap: 15px;
   display:flex; 
   justify-content: flex-start;
+  margin-left: o;
 }
 
 ul.right {
