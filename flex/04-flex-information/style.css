@@ -16,10 +16,12 @@ img {
 .plants{
   display:flex;
   gap: 15px;
+  justify-content: center;
 }
 
 .plant-text{
   display: flex;
+  justify-content: center;
   flex-direction: column;
 }
 
