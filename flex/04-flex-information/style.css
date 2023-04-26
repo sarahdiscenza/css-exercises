@@ -17,6 +17,10 @@ img {
   display:flex;
 }
 
+.plant-text{
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
