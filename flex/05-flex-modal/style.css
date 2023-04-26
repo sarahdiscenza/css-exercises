@@ -71,3 +71,7 @@ button.cancel {
   display:flex;
   flex-direction: column;
 }
+
+.question {
+  display: flex;
+}
