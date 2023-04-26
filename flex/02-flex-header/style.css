@@ -2,7 +2,6 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  border: 5px solid red;
   justify-content: space-between;
   gap: 15px;
 }
@@ -13,14 +12,12 @@
   color: tomato;
   background: white;
   padding: 4px;
-  border: 5px solid  red;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  border: 5px solid red;
 }
 
 a {
@@ -29,14 +26,11 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  border: 5px solid red;
 }
 
 div.left-links{
-  border: 1px solid red;
   justify-content: flex-start;
 }
 
 .right-links{
-  border: 5px solid red;
 }
