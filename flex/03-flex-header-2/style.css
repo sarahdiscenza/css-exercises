@@ -33,6 +33,7 @@ body {
 }
 
 button {
+  align-self: center;
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
