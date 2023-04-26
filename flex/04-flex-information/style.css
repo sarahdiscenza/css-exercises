@@ -15,6 +15,7 @@ img {
 
 .plants{
   display:flex;
+  gap: 15px;
 }
 
 .plant-text{
