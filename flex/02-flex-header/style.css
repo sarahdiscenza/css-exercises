@@ -31,7 +31,6 @@ a {
 }
 
 div.left-links{
-  justify-self: flex-start;
   flex: 1;
   border: 5px solid red;
   gap: 10px;
@@ -40,5 +39,4 @@ div.left-links{
 
 div.right-links{
   flex: 1;
-  justify-self: flex-end;
 }
