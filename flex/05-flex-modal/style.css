@@ -73,6 +73,7 @@ button.cancel {
   display:flex;
   flex-direction: column; 
   gap: 15px;
+  margin-left: auto;
 }
 
 .question {
