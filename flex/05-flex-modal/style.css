@@ -69,7 +69,7 @@ button.cancel {
 
 .vert {
   display:flex;
-  flex-direction: column;
+  flex-direction: column; 
 }
 
 .question {
