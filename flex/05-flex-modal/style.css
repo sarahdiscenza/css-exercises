@@ -37,6 +37,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex: 0;
 }
 
 .close-button {
@@ -73,7 +74,6 @@ button.cancel {
   display:flex;
   flex-direction: column; 
   gap: 15px;
-  margin-left: auto;
 }
 
 .question {
