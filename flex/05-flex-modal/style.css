@@ -37,7 +37,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex: 0;
 }
 
 .close-button {
@@ -79,4 +78,8 @@ button.cancel {
 .question {
   display: flex;
   justify-content: space-between;
+}
+
+.header{
+  font-weight: bold;
 }
