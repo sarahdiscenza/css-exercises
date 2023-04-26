@@ -25,3 +25,11 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+.left-links{
+  justify-content: flex-start;
+}
+
+.right-links{
+  justify-content: flex-end;
+}
