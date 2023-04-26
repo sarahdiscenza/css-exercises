@@ -74,4 +74,5 @@ button.cancel {
 
 .question {
   display: flex;
+  justify-content: space-between;
 }
