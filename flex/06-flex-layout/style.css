@@ -5,6 +5,10 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 img {
@@ -16,6 +20,9 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  align-self: center;
+  padding: 15px;
+  justify-content: center;
 }
 
 input {
@@ -35,4 +42,15 @@ ul{
 .header{
   display: flex;
   justify-content: space-between;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+.footer{
+  display:flex;
+  justify-content: space-between;
+  background-color: #eee;
 }
